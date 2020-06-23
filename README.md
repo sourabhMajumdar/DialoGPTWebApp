@@ -1,6 +1,6 @@
 # DialoGPTWebApp
 
-This is a basic Flask-App that uses provides an interface to interact with DialoGPT.
+This is a basic Flask-App that provides an interface to interact with DialoGPT.
 
 For the purpose of this project, I have pre-trained it on the DSTC8 Dataset
 
@@ -36,3 +36,6 @@ After all that is said and done, just run
 ```python
 python app.py
 ```
+
+## Example Run
+![Example Run](https://github.com/sourabhMajumdar/DialoGPTWebApp/img/screenshot.png)
