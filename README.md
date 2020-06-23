@@ -38,4 +38,4 @@ python app.py
 ```
 
 ## Example Run
-![Example Run](https://github.com/sourabhMajumdar/DialoGPTWebApp/img/screenshot.png)
+![Example Run](http://www.github.com/sourabhMajumdar/DialoGPTWebApp/img/screenshot.png)
